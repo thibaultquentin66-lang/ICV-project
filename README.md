@@ -22,21 +22,22 @@ The model is trained on the GTSDB (FullIJCNN2013) dataset and predicts both boun
 - **Classes**: multiple types of traffic signs (43 classes)  
 - **Format**: annotations 
 
-Dataset structure:
+## Dataset structure:
 ```text
 FullIJCNN2013/
 └── FullIJCNN2013/
     ├── images/
-    └── annotations.txt
+    ├── Readme.txt/
+    └── gt.txt
 ```
 
-##Limitations
+## Limitations
 
 - Long training time
 - Simplified model architecture
 - Limited post-processing
 - Visual results may be unstable
 
-##Run the code
+## Run the code
 
 Please find the "requirements.txt" file to download the necessary libraries
