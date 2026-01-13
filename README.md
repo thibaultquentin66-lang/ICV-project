@@ -28,3 +28,14 @@ FullIJCNN2013/
 └── FullIJCNN2013/
     ├── images/
     └── annotations.txt
+
+##Limitations
+
+- Long training time
+- Simplified model architecture
+- Limited post-processing
+- Visual results may be unstable
+
+##Run the code
+
+Please find the "requirements.txt" file to download the necessary libraries
