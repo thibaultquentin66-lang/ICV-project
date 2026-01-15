@@ -20,7 +20,8 @@ The model is trained on the GTSDB (FullIJCNN2013) dataset and predicts both boun
 - **Name**: GTSDB – FullIJCNN2013  
 - **Data**: `.ppm` images with corresponding annotations  
 - **Classes**: multiple types of traffic signs (43 classes)  
-- **Format**: annotations 
+- **Format**: annotations
+- **Link to the dataset**: https://benchmark.ini.rub.de/gtsdb_dataset.html
 
 ## Dataset structure:
 ```text
