@@ -42,3 +42,4 @@ FullIJCNN2013/
 ## Run the code
 
 Please find the "requirements.txt" file to download the necessary libraries
+You can also use the computer vision environment to run the notebook.
