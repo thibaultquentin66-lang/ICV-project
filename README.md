@@ -43,3 +43,8 @@ FullIJCNN2013/
 
 Please find the "requirements.txt" file to download the necessary libraries
 You can also use the computer vision environment to run the notebook.
+
+## Vidéo
+
+You can find the video link below (too big to be upload)
+https://drive.google.com/file/d/1WlcxEg_H1ujg8er0k0Mbko_k4XiswZdr/view
